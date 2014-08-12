@@ -25,7 +25,8 @@
 
 (defn max-value
   "Escribir una funcion que reciba un numero variable de parametros
-   y retorne el que tenga el valor mayor"
+   y retorne el que tenga el valor mayor
+   Restricciones: max y max-key"
   [& args])
 
 (defn split-two
